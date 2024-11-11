@@ -1,1 +1,1 @@
-Technology Tech Labo opdracht.
+Technology | Tech Labo - IoT Dashboard
